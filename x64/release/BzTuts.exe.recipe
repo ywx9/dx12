@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\AA1W017\Downloads\BzTuts\BzTuts-copy\x64\release\BzTuts.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\AA1W017\Downloads\BzTuts\BzTuts-copy\x64\release\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\AA1W017\Downloads\BzTuts\BzTuts-copy\x64\release\VertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\AA1W017\Downloads\BzTuts\BzTuts-copy\x64\release\TextPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\AA1W017\Downloads\BzTuts\BzTuts-copy\x64\release\TextVertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
